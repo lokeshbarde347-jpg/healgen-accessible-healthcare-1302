@@ -1,0 +1,6 @@
+{
+  "name": "HealGen - Accessible Healthcare & Diagnostics",
+  "description": "Generative AI for human-centred healthcare. Transforming complex medical reports, lab results, and diagnostic insights into understandable, accessible, and actionable plain language with responsible AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
